@@ -1,4 +1,4 @@
-// Anime.js implementation of the Diagonal Thumbnail Slideshow Animation
+// Anime.js - Diagonal Thumbnail Slideshow Animation
 *,
 *:before,
 *:after {
@@ -137,7 +137,7 @@ a {
       text-align: center;
       text-shadow: 1px 1px 4px rgba($black, 0.2);
       width: 100%;
-      max-width: 600px;
+      max-width: 50rem;
       line-height: 1;
       .letter {
         display: inline-block;
