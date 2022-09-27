@@ -6,7 +6,7 @@
 
 ## Technologies used in the project:
 
-- CSS
+- CSS/SCSS
 - HTML
 - JAVASCRIPT
 
