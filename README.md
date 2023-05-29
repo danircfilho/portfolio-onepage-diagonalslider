@@ -12,7 +12,7 @@
 
 ## View this project:
 
-https://danielrodrigues.dev.br/inovacao
+daniel-onepage-slider.netlify.app
 
 Copyrigth (c) 2022 - Daniel Rodrigues de Carvalho Filho
 
